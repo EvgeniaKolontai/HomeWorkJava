@@ -1,3 +1,5 @@
+// 3. Найти все кратные n числа в диапазоне от i до Short.MAX_VALUE сохранить в массив m1
+
 import java.util.ArrayList;
 
 public class Zadacha3 {
